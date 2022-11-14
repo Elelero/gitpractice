@@ -5,6 +5,7 @@ public class App {
 		System.out.println("깃 연습");
 		System.out.println("실행1");
 		System.out.println("실행2");
+		System.out.println("실행3");
 	}
 
 }
