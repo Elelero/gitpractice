@@ -5,6 +5,7 @@ public class App {
 		System.out.println("고침");
 		System.out.println("branch도 바꿈");
 		System.out.println("실행3 추가");
+		System.out.println("실행2 추가");
 	}
 
 }
