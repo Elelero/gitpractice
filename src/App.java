@@ -2,12 +2,7 @@
 public class App {
 
 	public static void main(String[] args) {
-		System.out.println("깃 연습");
-		System.out.println("실행1");
-		System.out.println("실행21"); //얘 다르게하기
-		System.out.println("실행3");
-		System.out.println("branch1-실행1");
-		System.out.println("branch1-실행2");
+		System.out.println("고침");
 	}
 
 }
